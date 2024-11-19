@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextCity" type="id" />
+    <item name="buttonGetWeather" type="id" />
+    <item name="textViewTemperature" type="id" />
+</resources>
